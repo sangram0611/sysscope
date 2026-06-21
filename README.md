@@ -317,5 +317,7 @@ The HTML dashboard is fully self-contained (no CDN dependencies) — it uses onl
 - A modern browser for `sysscope serve` (Chrome, Firefox, Safari, Edge — anything with SSE support)
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/97a80952-73eb-4648-a07f-a7c2a1b7b6f0" />
+
 
 
