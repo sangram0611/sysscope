@@ -1,6 +1,6 @@
 # 🛡️ SysScope v1.2.0
 
-> **Thunder Hackathon 3.0** — Real-time System Auditor, Threat Scanner, Live Web Dashboard & File Manager CLI
+>  Real-time System Auditor, Threat Scanner, Live Web Dashboard & File Manager CLI
 
 SysScope is a Node.js CLI that collects system information, performs real-time virus/threat scanning across your workspace files and environment, generates detailed security reports in multiple formats (console, JSON, HTML dashboard, **live browser dashboard**), and provides sandboxed CRUD operations on code files.
 
@@ -317,7 +317,9 @@ The HTML dashboard is fully self-contained (no CDN dependencies) — it uses onl
 - A modern browser for `sysscope serve` (Chrome, Firefox, Safari, Edge — anything with SSE support)
 
 ---
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/97a80952-73eb-4648-a07f-a7c2a1b7b6f0" />
+<img width="780" height="670" alt="image" src="https://github.com/user-attachments/assets/97a80952-73eb-4648-a07f-a7c2a1b7b6f0" />
+<img width="890" height="669" alt="image" src="https://github.com/user-attachments/assets/7740cab5-9f02-4887-a998-e79c7f9a7749" />
+
 
 
 
